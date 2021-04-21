@@ -15,8 +15,6 @@ Route::get('/', function () {
     return view('login');
 });
 
-Auth::routes();
-
 Route::get('/register', function () {
     return view('register');
 });
@@ -28,3 +26,14 @@ Route:: get('/package', 'PackageController@package');
 Route:: get('/contact', 'ContactController@contact');
 
 Route:: get('/about', 'AboutController@about');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
