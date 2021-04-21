@@ -1,7 +1,5 @@
 <?php
 
-use Illuminate\Support\Facades\Route;
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -14,5 +12,19 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('login');
 });
+
+Auth::routes();
+
+Route::get('/register', function () {
+    return view('register');
+});
+
+Route:: get('/home', 'HomeController@home');
+
+Route:: get('/package', 'PackageController@package');
+
+Route:: get('/contact', 'ContactController@contact');
+
+Route:: get('/about', 'AboutController@about');
