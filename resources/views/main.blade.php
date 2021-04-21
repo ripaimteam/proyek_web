@@ -46,13 +46,13 @@
                         <a href="/home"> <i class="menu-icon fa fa-dashboard"></i>Dashboard </a>
                     </li>
                     <li>
-                        <a href="/packag"> <i class="menu-icon fa fa-puzzle-piece"></i>Package </a>
+                        <a href="/package"> <i class="menu-icon fa fa-puzzle-piece"></i>Package </a>
                     </li>
                     <li>
                         <a href="/contact"> <i class="menu-icon ti-email"></i>Contact Us </a>
                     </li>
                     <li>
-                        <a href="/abou"> <i class="menu-icon fa fa-laptop"></i>About </a>
+                        <a href="/about"> <i class="menu-icon fa fa-laptop"></i>About </a>
                     </li>
                     <li>
                         
