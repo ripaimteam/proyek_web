@@ -19,7 +19,7 @@ Route::get('/register', function () {
     return view('register');
 });
 
-Route:: get('/home', 'HomeController@home');
+Route:: get('/welcome', 'WelcomeController@welcome');
 
 Route:: get('/package', 'PackageController@package');
 
@@ -31,9 +31,3 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
-
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
