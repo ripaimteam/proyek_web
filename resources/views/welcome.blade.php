@@ -67,15 +67,8 @@
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
-                    @auth
-                        <a href="/login2">Owner</a>
-                    @else
-                        <a href="/login2">Owner</a>
-
-                        @if (Route::has('register'))
-                            <a href="/">Customer</a>
-                        @endif
-                    @endauth
+                <a href="/login2">Owner</a>
+                <a href="/">Customer</a>
                 </div>
             @endif
 

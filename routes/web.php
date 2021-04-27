@@ -15,6 +15,8 @@ Route::get('/', function () {
     return view('login');
 });
 
+Route::get('/login2', 'LogController@login2')->name('login2');
+
 Route::get('/register', function () {
     return view('register');
 });
