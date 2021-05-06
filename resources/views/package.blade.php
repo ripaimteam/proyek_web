@@ -33,7 +33,7 @@
                 <div class="row"><div class="boxer2">
         <div class="col-md-4"><div class="rental-produk"> 
         <div class="rental-gambar-center">
-        <div class="rental-gambar"><a  ><img src="img/per.jpeg" width="220" height="147"  />
+        <div class="rental-gambar"><a  ><img src="img/kering.jpg" width="220" height="147"  />
         </a>
         </div></div>
         <div class="rental-title-produk"><a>Paket Cuci Kering Reguler</a></div>
@@ -55,7 +55,7 @@
 
     <div class="col-md-4"><div class="rental-produk"> 
     <div class="rental-gambar-center">
-    <div class="rental-gambar"><a><img src="img/wer.jfif"  width="220" height="150"  />
+    <div class="rental-gambar"><a><img src="img/kering.jpg"  width="220" height="150"  />
     </a>
     </div></div>
     <div class="rental-title-produk"><a > Paket Cuci Kering 1 Hari</div>
@@ -76,7 +76,7 @@
     </div></div>
     <div class="col-md-4"><div class="rental-produk"> 
     <div class="rental-gambar-center">
-    <div class="rental-gambar"><a ><img src="img/se.jfif"  width="220" height="150"  />
+    <div class="rental-gambar"><a ><img src="img/setrika.jpg"  width="220" height="150"  />
     </a>
     </div></div>
     <div class="rental-title-produk"><a>Paket Cuci Setrika Reguler </a></div>
@@ -97,7 +97,7 @@
     </div></div>
     <div class="col-md-4"><div class="rental-produk"> 
     <div class="rental-gambar-center">
-    <div class="rental-gambar"><a ><img src="img/er.jfif"  width="220" height="138"  />
+    <div class="rental-gambar"><a ><img src="img/setrika.jpg"  width="220" height="138"  />
     </a>
     </div></div>
     <div class="rental-title-produk"><a>Paket Cuci Setrika 1 Hari</a></div>
@@ -118,7 +118,7 @@
     </div></div>
     <div class="col-md-4"><div class="rental-produk"> 
     <div class="rental-gambar-center">
-    <div class="rental-gambar"><a><img src="img/sd.jfif"  width="220" height="138""  />
+    <div class="rental-gambar"><a><img src="img/basah.jpg"  width="220" height="138""  />
     </a>
     </div></div>
     <div class="rental-title-produk"><a>Paket Cuci Basah Reguler</a></div>
@@ -139,7 +139,7 @@
     </div></div>
     <div class="col-md-4"><div class="rental-produk"> 
     <div class="rental-gambar-center">
-    <div class="rental-gambar"><a ><img src="img/y.jfif"  width="220" height="138"  />
+    <div class="rental-gambar"><a ><img src="img/basah.jpg"  width="220" height="138"  />
     </a>
     </div></div>
     <div class="rental-title-produk"><a>Paket Cuci Basah 1 Hari</a></div>
@@ -160,7 +160,7 @@
     </div></div>
     <div class="col-md-4"><div class="rental-produk"> 
     <div class="rental-gambar-center">
-    <div class="rental-gambar"><a ><img src="img/y.jfif"  width="220" height="138"  />
+    <div class="rental-gambar"><a ><img src="img/jemput.jpg"  width="220" height="138"  />
     </a>
     </div></div>
     <div class="rental-title-produk"><a>Paket Cuci Jemput Reguler</a></div>
@@ -180,7 +180,7 @@
     </div></div>
     <div class="col-md-4"><div class="rental-produk"> 
     <div class="rental-gambar-center">
-    <div class="rental-gambar"><a ><img src="img/y.jfif"  width="220" height="138"  />
+    <div class="rental-gambar"><a ><img src="img/jemput.jpg"  width="220" height="138"  />
     </a>
     </div></div>
     <div class="rental-title-produk"><a >Paket Cuci Jemput 1 Hari</a></div>
@@ -200,7 +200,7 @@
     </div></div>
     <div class="col-md-4"><div class="rental-produk"> 
     <div class="rental-gambar-center">
-    <div class="rental-gambar"><a ><img src="img/y.jfif"  width="220" height="138"  />
+    <div class="rental-gambar"><a ><img src="img/antar.jpg"  width="220" height="138"  />
     </a>
     </div></div>
     <div class="rental-title-produk"><a >Paket Cuci Antar Jemput Reguler</a></div>
