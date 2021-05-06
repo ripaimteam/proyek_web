@@ -38,10 +38,10 @@
 				<ol class="breadcrumb text-right"></ol>
 					<p><b>Super Laundry</b></p>
 	<p><img loading="lazy" class="alignnone wp-image-960 size-full" src="img/favicon.png" alt="" width="200" height="170" /></p>
-	<p>Adalah penyedia jasa Rental Mobil Tour and Travel yang berada di kota Malang Jawa Timur. Bila anda berkunjung ke kota Malang tidak salah bila memilih kami sebagai tour organizer bagi anda dan keluarga, kerabat, teman sahabat atau kolega anda</p>
-	<p>Kami menyediakan berbagai pilihan paket tour di jawa dan bali salah satu diantaranya :</p>
+	<p>Adalah penyedia layanan laundry untuk memberi customer kemudahan dalam kesehariannya tanpa harus datang langsung ke tempat laundry. Hal ini menjadi awal perkembangan di era modern sekarang yang kebanyakan orang sibuk dengan pekerjaannya dan memiliki waktu yang padat.</p>
+	
 	<ul>
-	<h4>Trip Gunung Bromo</h4>
+	<h4>VISI & MISI</h4>
 
 	</ul>
 	<p><strong>VISI </strong></p>
